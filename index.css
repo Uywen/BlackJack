@@ -29,12 +29,11 @@ button {
 }
 
 #board{
-    margin-top: 5rem;
     background:red;
     border:none;
     border-radius: 5px;
     justify-content: center;
     align-items: center;
     max-width:50%;
-    margin:auto
+    margin-top: 5rem
 }
