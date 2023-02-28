@@ -29,12 +29,11 @@ button {
 }
 
 #board{
-    display:flex;
     background:red;
     border:none;
     border-radius: 5px;
     justify-content: center;
     align-items: center;
-    max-width:60%;
+    max-width:50%;
     margin:auto
 }
