@@ -29,6 +29,9 @@ button {
 }
 
 #board{
+    background:red;
+    border:none;
+    border-radius: 5px;
     justify-content: center;
     align-items: center;
     width:100%;
